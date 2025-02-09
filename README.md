@@ -108,7 +108,8 @@ void loop() {
 - Open the Serial Monitor in the Arduino IDE (set baud rate to 9600).
 - Observe the EEG signal values being printed.
 - Ensure the values change when focusing or relaxing.
-  ![research2](https://github.com/user-attachments/assets/93d40345-78c0-4fd6-b342-7db01a83e7c0)
+  ![Screenshot 2025-02-04 020223](https://github.com/user-attachments/assets/74084ba0-23f0-4eb4-a96c-d81cfd47a307)
+
 
 ------------
 
